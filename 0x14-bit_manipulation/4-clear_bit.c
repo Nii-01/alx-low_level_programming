@@ -2,9 +2,9 @@
 
 
 /**
- * clear_bit - this sets the value of a given bit to 0 in an unsigned int
+ * clear_bit - sets the value of a given bit to 0
  * @n: pointer to the number to change
- * @index: index of the bit to clear (LSB is index 0)
+ * @index: index of the bit to clear
  *
  * Return: 1 for success, -1 for failure
  */

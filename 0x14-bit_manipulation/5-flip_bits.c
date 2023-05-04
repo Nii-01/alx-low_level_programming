@@ -2,12 +2,12 @@
 
 
 /**
- * flip_bits - determines the number of bits to be flipped
- * to transform one unsigned long int number to another
+ * flip_bits - counts the number of bits to change
+ * to get from one number to another
  * @n: first number
  * @m: second number
  *
- * Return: the number of bits that need to be flipped
+ * Return: number of bits to change
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
